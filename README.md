@@ -1,4 +1,4 @@
-# Capstone Pracice! 
+# Capstone Practice! 
 ## Stuff I've Worked On 
 - setting up simple react native projects such as this one
 - following along with this tutorial: https://www.youtube.com/watch?v=qSRrxpdMpVc&ab_channel=Academind
